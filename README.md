@@ -13,7 +13,7 @@ Once you are inside the directory run the following command in your terminal to 
 ```console
 $ gazebo --verbose {Path to car_pkg in your system}/src/car_pkg/worlds/test.sdf -s libgazebo_ros_factory.so
 ```
-
+Now, the Simulator should have started working and the camera output from the simulator will publish images to images_raw topic. 
 
 
 

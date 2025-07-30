@@ -1,6 +1,5 @@
 # Gazebo Simulator for Lane Keeping with ROS2
 
-![Project Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 ![License](https://img.shields.io/badge/license-open--source-blue.svg)
 
 ## Overview
